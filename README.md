@@ -10,7 +10,7 @@ Usage
 To get started, just insert your own texts into the "doges" array in doge.js and include the script in your page. Note that you will need jQuery.
 You will also have to add the "wow" class to yout doge container (Should be `body` in most cases)
 Example page structure:
-´´´´html
+````html
 <!doctype html>
 <head ...>
 <body class="wow">
@@ -20,7 +20,7 @@ Example page structure:
     <script src="http://code.jquery.com/jquery-1.10.1.min.js" type="text/javascript" /><!-- It is recommended that you download jQuery and host it on your own servers -->
     <script src="doge.js" type="text/javascript" /><!-- Achievement get! Wow -->
 </body>
-´´´´
+````
 
 License
 =======
